@@ -1,0 +1,148 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+/* 1st page projcet clos */
+.header {
+    background-color: rgba(113, 206, 148, 0.808);
+}
+.banner {
+    display: flex;
+    gap: 600px;
+    padding-top: 64px;
+}
+.g3-info {
+    font-size: 25px;
+}
+.manu {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    font-size: 20px;
+}
+.Brand-New {
+    text-align: center;
+}
+.banner-title {
+    font-size: 80px;
+}
+.banner-info{
+    margin: 20px 0px;
+}
+.btn {
+    background-color: orange;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 15px;
+    border-color: orange;
+    margin-bottom: 10px;
+
+}
+.btn:hover {
+    background-color: transparent;
+    color: blue;
+    padding: 15px 25px;
+    border-radius: 15px;
+    border-color: orange;
+    cursor: pointer;
+}
+
+
+/* 2nd page projcet clos */
+
+.Features {
+   margin: 100px;
+    padding: 80px;
+  
+}
+.Features-img {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+span {
+    color: darkcyan;
+}
+.color {
+    color: orange;
+}
+.honar-img {
+    display: flex;
+}
+
+
+/* 3nd page projcet clos */
+.loveenjoy{
+  
+    margin: 100px;
+    display: flex;
+}
+.loveenjoy-title {
+    width: 50%;
+    margin-left: -100px;
+}
+.loveenjoy-img {
+    width: 50%;
+}
+.loveenjoy-title h1 {
+    font-size:50px;
+    margin-top: 100px;
+}
+.loveenjoy-info {
+    margin: 10px 0px 30px 0px;
+}
+.loveenjoy-title h2 {
+    font-size: 30px;
+    margin-top: 70px;
+}
+.loveenjoy-img-info {
+   width: 50%;
+   height: 50%;
+}
+.Experience {
+    background-color: orange;
+    color: white;
+    padding: 40px 40px;
+    margin-right: 360px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: -70px;   
+    margin-left: -50px;
+    position: relative;
+}
+/* 4th projcet page clos */
+.Some-Facts {
+    margin: 100px;
+    padding: 50px;
+   
+}
+.some-info {
+    display: flex;
+}
+.some-box {
+    margin-top: 20px;
+    text-align: center;
+   border: 2px solid;
+    color: black;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+
+/* 5th procjet page clos */
+.Sponspors {
+    text-align: center;
+    font-size: 30px;
+}
+.Sponspors-info{
+    display: flex;
+}
+.Sponspors h4 {
+    background-color: burlywood;
+    margin-top: 30px;
+    padding: 20px 0px;
+}
+.Sponspors p {
+    margin: 40px 0px ;
+    font-size: 22px;
+}
